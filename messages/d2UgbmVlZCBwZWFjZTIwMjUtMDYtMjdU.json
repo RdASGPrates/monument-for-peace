@@ -1,0 +1,15 @@
+{
+  "id": "0d457c5f-f1ec-462c-aa82-0bc435a8ebf8",
+  "content": "we need peace",
+  "emotion": "desire",
+  "type": "text",
+  "username": "Rafael",
+  "created_at": "2025-06-27T12:03:59.455Z",
+  "chain_hash": "d2UgbmVlZCBwZWFjZTIwMjUtMDYtMjdU",
+  "message_hash": "d2UgbmVlZCBwZWFjZTIwMjUtMDYtMjdU",
+  "verification": {
+    "message_hash": "d2UgbmVlZCBwZWFjZTIwMjUtMDYtMjdU",
+    "chain_hash": "d2UgbmVlZCBwZWFjZTIwMjUtMDYtMjdU",
+    "entry_id": "0d457c5f-f1ec-462c-aa82-0bc435a8ebf8"
+  }
+}
